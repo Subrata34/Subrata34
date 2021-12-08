@@ -1,4 +1,4 @@
-<div align="">
+<div align="D-flex">
 <div>
 <h1 align="center">Hi 👋, I'm Subrata Modak</h1>
 <h3 align="center">A passionate frontend developer,Beakend developer and APIs</h3>
